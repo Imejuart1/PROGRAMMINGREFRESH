@@ -18,8 +18,3 @@ export function customSubString(startIndex, endIndex){
 
     return result;
 }
-
-
-let str ="Hello World";
-substring = str.customSubString(1,2);
-console.log(substring)
